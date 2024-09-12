@@ -5,7 +5,7 @@
   ![](https://komarev.com/ghpvc/?username=aelew&label=views)
   [![Discord](https://img.shields.io/badge/@aelew-5865F2?logo=discord&logoColor=white)](https://discord.com/users/204594797812383744)
   [![LinkedIn](https://img.shields.io/badge/@aelew-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aelew)
-  [![X](https://img.shields.io/badge/@aelew__-000000?logo=x&logoColor=white)](https://x.com/aelew_)
+  [![X](https://img.shields.io/badge/@aelew__-262626?logo=x&logoColor=white)](https://x.com/aelew_)
 </div>
 
 <div align="center">
@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-F80000?logo=oracle&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
+    <img src="https://img.shields.io/badge/Rust-F46623?logo=rust&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" /> 
   </div>
@@ -36,6 +37,7 @@
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
     <img src="https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-00684A?logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?logo=drizzle&logoColor=black" />
     <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
     <img src="https://img.shields.io/badge/Lucia-5F57FF?logo=lucia&logoColor=white" />
