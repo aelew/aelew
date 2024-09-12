@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey, I'm Andre 👋</h1>
-  <p>I'm a 19 y/o undergraduate student studying Computer Science and Engineering at University of California, Merced. I love shipping software and learning about new tech!</p>
+  <p>I'm an undergraduate student studying Computer Science and Engineering at University of California, Merced. I love shipping software and learning about new tech!</p>
   
   ![](https://komarev.com/ghpvc/?username=aelew&label=views)
   [![Discord](https://img.shields.io/badge/@aelew-5865F2?logo=discord&logoColor=white)](https://discord.com/users/204594797812383744)
