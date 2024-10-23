@@ -2,9 +2,9 @@
   <h1>Hey, I'm Andre 👋</h1>
   <p>I'm an undergraduate student studying Computer Science and Engineering at University of California, Merced. I love shipping software and learning about new tech!</p>
   
-  ![](https://komarev.com/ghpvc/?username=aelew&label=views)
   [![Discord](https://img.shields.io/badge/@aelew-5865F2?logo=discord&logoColor=white)](https://discord.com/users/204594797812383744)
   [![LinkedIn](https://img.shields.io/badge/@aelew-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aelew)
+  [![Bluesky](https://img.shields.io/badge/@aelew.com-0285FF?logo=bluesky&logoColor=white)](https://bsky.app/profile/aelew.com)
   [![X](https://img.shields.io/badge/@aelew__-262626?logo=x&logoColor=white)](https://x.com/aelew_)
 </div>
 
