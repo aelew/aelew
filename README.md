@@ -4,10 +4,10 @@
 [![X](https://img.shields.io/badge/@aelew__-262626?logo=x&logoColor=white)](https://x.com/aelew_)
 
 student, developer, aspiring software engineer. i love shipping software and learning about anything tech.  
-i'm currently looking for internships! if you're a recruiter or know of open roles i'd be a good fit for, feel free to reach out.
+**i'm currently looking for internships!** if you're a recruiter or know of open roles i'd be a good fit for, feel free to reach out.
 
 ## experience
-- web developer @ UC Merced
+- web developer @ UC Merced OIT
 - engineering organizer @ HackMerced
 - software engineer intern @ Open Avenues
 
