@@ -3,8 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/@aelew-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aelew)
 [![X](https://img.shields.io/badge/@aelew__-262626?logo=x&logoColor=white)](https://x.com/aelew_)
 
-Student, developer, aspiring software engineer. I love shipping software and learning about anything tech.  
-I'm currently looking for internships! If you're a recruiter or know of open roles I'd be a good fit for, feel free to reach out.
+student, developer, aspiring software engineer. i love shipping software and learning about anything tech.  
+i'm currently looking for internships! if you're a recruiter or know of open roles i'd be a good fit for, feel free to reach out.
 
 ## experience
 - web developer @ UC Merced
@@ -12,7 +12,7 @@ I'm currently looking for internships! If you're a recruiter or know of open rol
 - software engineer intern @ Open Avenues
 
 ## projects
-`💻` [aelew.com](https://github.com/aelew/com): personal site built with bun and astro  
+`💻` [com](https://github.com/aelew/com): personal site built with bun and astro  
 `📚` [devterms](https://github.com/aelew/devterms): crowdsourced dictionary for developers  
 `🎨` [iconkit](https://iconkit.ai): professional AI icon generator web app and API  
 `🪙` [cryptotracker](https://github.com/aelew/cryptotracker): discord bot for tracking crypto tx confirmations  
@@ -36,7 +36,7 @@ meh
 &nbsp;
 --->
 
-## cool stats
+## cool stats, i guess
 <kbd>
   <picture>
     <source
