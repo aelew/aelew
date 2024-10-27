@@ -16,7 +16,7 @@ student, developer, aspiring software engineer. i love shipping software and lea
 `📚` [devterms](https://github.com/aelew/devterms): crowdsourced dictionary for developers  
 `🎨` [iconkit](https://iconkit.ai): professional AI icon generator web app and API  
 `🪙` [cryptotracker](https://github.com/aelew/cryptotracker): discord bot for tracking crypto tx confirmations  
-`🔎` [lookup.tools](https://github.com/aelew/lookup.tools): OSINT tool for domains, IP addresses, and emails  
+`🔎` [lookup.tools](https://github.com/aelew/lookup.tools): OSINT tool for domains, emails, and IP addresses  
 `>>` [cobalt](https://github.com/aelew/raycast-cobalt): raycast extension for downloading social media content  
 `🔗` [unshorten](https://github.com/aelew/unshorten): simple rust CLI for expanding shortened URLs  
 `🔔` [tech-internship-alerts](https://github.com/aelew/tech-internship-alerts): internship listing monitor for discord  
