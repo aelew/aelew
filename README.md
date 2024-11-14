@@ -12,16 +12,16 @@ student, developer, aspiring software engineer. i love shipping software and lea
 - software engineer intern @ Open Avenues
 
 ## projects
-`💻` [com](https://github.com/aelew/com): personal site built with bun and astro  
+`💻` [com](https://github.com/aelew/com): personal site built with Bun and Astro  
 `📚` [devterms](https://github.com/aelew/devterms): crowdsourced dictionary for developers  
 `🎨` [iconkit](https://iconkit.ai): professional AI icon generator web app and API  
-`🪙` [cryptotracker](https://github.com/aelew/cryptotracker): discord bot for tracking crypto tx confirmations  
+`🪙` [cryptotracker](https://github.com/aelew/cryptotracker): Discord bot for tracking crypto tx confirmations  
 `🔎` [lookup.tools](https://github.com/aelew/lookup.tools): OSINT tool for domains, emails, and IP addresses  
-`>>` [cobalt](https://github.com/aelew/raycast-cobalt): raycast extension for downloading social media content  
-`🔗` [unshorten](https://github.com/aelew/unshorten): simple rust CLI for expanding shortened URLs  
-`🔔` [tech-internship-alerts](https://github.com/aelew/tech-internship-alerts): internship listing monitor for discord  
+`>>` [cobalt](https://github.com/aelew/raycast-cobalt): Raycast extension for downloading social media content  
+`🔗` [unshorten](https://github.com/aelew/unshorten): minimal Rust CLI for expanding shortened URLs  
+`🔔` [tech-internship-alerts](https://github.com/aelew/tech-internship-alerts): internship listing monitor bot for Discord  
 `📆` [ucmerced-ical](https://github.com/aelew/ucmerced-ical): iCalendar file generator for UC Merced courses  
-`🎁` [gpt-wrapped](https://github.com/aelew/gpt-wrapped): chatgpt conversation analyzer powered by GPT-4  
+`🎁` [gpt-wrapped](https://github.com/aelew/gpt-wrapped): ChatGPT conversation analyzer powered by GPT-4  
 `✨` [conai](https://github.com/aelew/conai): CLI for reformatting commit msgs using the conv. commits spec  
 
 <!---
