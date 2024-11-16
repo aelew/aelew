@@ -22,6 +22,7 @@ student, developer, aspiring software engineer. i love shipping software and lea
 `🔔` [tech-internship-alerts](https://github.com/aelew/tech-internship-alerts): internship listing monitor bot for Discord  
 `📆` [ucmerced-ical](https://github.com/aelew/ucmerced-ical): iCalendar file generator for UC Merced courses  
 `🎁` [gpt-wrapped](https://github.com/aelew/gpt-wrapped): ChatGPT conversation analyzer powered by GPT-4  
+`📷` [ocr-api](https://github.com/aelew/ocr-api): API written in Go for extracting text from images using GPT-4o-mini  
 `✨` [conai](https://github.com/aelew/conai): CLI for reformatting commit msgs using the conv. commits spec  
 
 <!---
