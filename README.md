@@ -4,8 +4,9 @@
 [![X](https://img.shields.io/badge/@aelew.com-0285FF?logo=bluesky&logoColor=white)](https://bsky.app/profile/aelew.com)
 [![X](https://img.shields.io/badge/@aelew__-262626?logo=x&logoColor=white)](https://x.com/aelew_)
 
-student, developer, aspiring software engineer. i love shipping software and learning about anything tech.  
-**i'm currently looking for internships!** if you're a recruiter or know of open roles i'd be a good fit for, feel free to [reach out](mailto:me@aelew.com).
+hello there! i'm a 19 y/o student and aspiring software engineer studying computer science and engineering @ uc merced. i thrive on building tools, solving tricky challenges, and contributing to open source.
+
+**i'm also currently looking for internships!** if you're a recruiter or know of open roles i'd be a good fit for, feel free to [reach out](mailto:me@aelew.com).
 
 ## experience
 - web developer @ UC Merced OIT
