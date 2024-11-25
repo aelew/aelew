@@ -1,6 +1,7 @@
 # andre 🚀
-[![Discord](https://img.shields.io/badge/@aelew-5865F2?logo=discord&logoColor=white)](https://discord.com/users/204594797812383744)
 [![LinkedIn](https://img.shields.io/badge/@aelew-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aelew)
+[![Discord](https://img.shields.io/badge/@aelew-5865F2?logo=discord&logoColor=white)](https://discord.com/users/204594797812383744)
+[![X](https://img.shields.io/badge/@aelew.com-0285FF?logo=x&logoColor=white)](https://bsky.app/profile/aelew.com)
 [![X](https://img.shields.io/badge/@aelew__-262626?logo=x&logoColor=white)](https://x.com/aelew_)
 
 student, developer, aspiring software engineer. i love shipping software and learning about anything tech.  
