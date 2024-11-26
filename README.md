@@ -26,7 +26,7 @@ hello there! i'm a 19 y/o student and aspiring software engineer studying comput
 `🎁` [gpt-wrapped](https://github.com/aelew/gpt-wrapped): ChatGPT conversation analyzer powered by GPT-4  
 `✨` [conai](https://github.com/aelew/conai): CLI for reformatting commit msgs using the conv. commits spec  
 `📷` [ocr-api](https://github.com/aelew/ocr-api): API written in Go for extracting text from images using GPT-4o-mini  
-`🎬` [shorts-splicer](https://github.com/aelew/shorts-splicer): automatically split up shorts & reupload them to YouTube/TikTok  
+`🎬` [shorts-splicer](https://github.com/aelew/shorts-splicer): automatically splits up shorts & reuploads them to YouTube/TikTok  
 
 <!---
 meh
