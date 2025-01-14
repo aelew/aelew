@@ -4,7 +4,7 @@
 [![X](https://img.shields.io/badge/@aelew.com-0285FF?logo=bluesky&logoColor=white)](https://bsky.app/profile/aelew.com)
 [![X](https://img.shields.io/badge/@aelew__-262626?logo=x&logoColor=white)](https://x.com/aelew_)
 
-hello there! i'm a 19 y/o student and aspiring software engineer studying computer science and engineering @ uc merced. i thrive on building tools, solving tricky challenges, and contributing to open source.
+hello there! i'm a 20 y/o student and aspiring software engineer studying computer science and engineering @ uc merced. i thrive on building tools, solving tricky challenges, and contributing to open source.
 
 **i'm also currently looking for internships!** if you're a recruiter or know of open roles i'd be a good fit for, feel free to [reach out](mailto:me@aelew.com).
 
