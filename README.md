@@ -6,11 +6,11 @@
 
 hello there! i'm a 20 y/o student and aspiring software engineer studying computer science and engineering @ uc merced. i thrive on building tools, solving tricky challenges, and contributing to open source.
 
-**i'm also currently looking for internships!** if you're a recruiter or know of open roles i'd be a good fit for, feel free to [reach out](mailto:me@aelew.com).
+<!-- **i'm also currently looking for internships!** if you're a recruiter or know of open roles i'd be a good fit for, feel free to [reach out](mailto:me@aelew.com). -->
 
 ## experience
-- web developer @ UC Merced OIT
-- engineering organizer @ HackMerced
+- student developer @ UC Merced
+- event organizer @ HackMerced
 - software engineer intern @ Open Avenues
 
 ## projects
