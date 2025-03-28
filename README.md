@@ -9,6 +9,7 @@ hello there! i'm a 20 y/o student and aspiring software engineer studying comput
 <!-- **i'm also currently looking for internships!** if you're a recruiter or know of open roles i'd be a good fit for, feel free to [reach out](mailto:me@aelew.com). -->
 
 ## experience
+- incoming software engineer intern @ Apple
 - student developer @ UC Merced
 - event organizer @ HackMerced
 - software engineer intern @ Open Avenues
