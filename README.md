@@ -22,7 +22,7 @@ Hello there! I'm a 20 y/o student and aspiring software engineer studying Comput
 `🔎` [lookup.tools](https://github.com/aelew/lookup.tools): OSINT tool for domains, emails, and IP addresses  
 `>>` [cobalt](https://github.com/aelew/raycast-cobalt): Raycast extension for downloading social media content  
 `🔗` [unshorten](https://github.com/aelew/unshorten): Minimal Rust CLI for expanding shortened URLs  
-`🔔` [tech-internship-alerts](https://github.com/aelew/tech-internship-alerts): Internship listing monitor bot for Discord  
+`🔔` [tech-internship-alerts](https://github.com/aelew/tech-internship-alerts): Internship listing monitoring Discord bot  
 `📆` [ucmerced-ical](https://github.com/aelew/ucmerced-ical): iCalendar file generator for UC Merced courses  
 `🎁` [gpt-wrapped](https://github.com/aelew/gpt-wrapped): ChatGPT conversation analyzer powered by GPT-4  
 `✨` [conai](https://github.com/aelew/conai): CLI for reformatting commit msgs using the conv. commits spec  
