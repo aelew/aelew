@@ -9,37 +9,29 @@ Hello there! I'm a 20 y/o student and aspiring software engineer studying Comput
 <!-- **I'm also currently looking for internships!** If you're a recruiter or know of open roles I'd be a good fit for, feel free to [reach out](mailto:me@aelew.com). -->
 
 ## experience
-- incoming software engineer intern @ Apple
-- student developer @ UC Merced
-- event organizer @ HackMerced
-- software engineer intern @ Open Avenues
+| Company                                                               | Role                              | Start – End Date    |
+|:----------------------------------------------------------------------|:----------------------------------|:-------------------:|
+| [Apple](https://www.apple.com)                                        | Incoming Software Engineer Intern | May 2025 – Aug 2025 |
+| [UC Merced](https://www.ucmerced.edu)                                 | Student Developer                 | Aug 2024 – Present  |
+| [HackMerced](https://hackmerced.com)                                  | Event Organizer                   | Jul 2024 – Present  |
+| [Open Avenues](https://www.openavenuesfoundation.org/career-pathways) | Software Engineer Intern          | Feb 2024 – Apr 2024 |
 
 ## projects
-`💻` [com](https://github.com/aelew/com): Personal site built with Bun and Astro  
-`📚` [devterms](https://github.com/aelew/devterms): Crowdsourced dictionary for developers  
-`🎨` [iconkit](https://iconkit.ai): Professional AI icon generator web app and API  
-`🪙` [cryptotracker](https://github.com/aelew/cryptotracker): Discord bot for tracking crypto tx confirmations  
-`🔎` [lookup.tools](https://github.com/aelew/lookup.tools): OSINT tool for domains, emails, and IP addresses  
-`>>` [cobalt](https://github.com/aelew/raycast-cobalt): Raycast extension for downloading social media content  
-`🔗` [unshorten](https://github.com/aelew/unshorten): Minimal Rust CLI for expanding shortened URLs  
-`🔔` [tech-internship-alerts](https://github.com/aelew/tech-internship-alerts): Internship listing monitoring Discord bot  
-`📆` [ucmerced-ical](https://github.com/aelew/ucmerced-ical): iCalendar file generator for UC Merced courses  
-`🎁` [gpt-wrapped](https://github.com/aelew/gpt-wrapped): ChatGPT conversation analyzer powered by GPT-4  
-`✨` [conai](https://github.com/aelew/conai): CLI for reformatting commit msgs using the conv. commits spec  
-`📷` [ocr-api](https://github.com/aelew/ocr-api): API written in Go for extracting text from images using GPT-4o-mini  
-`🎬` [shorts-splicer](https://github.com/aelew/shorts-splicer): Automatically splits up shorts & reuploads them to YouTube/TikTok  
-
-<!---
-meh
-
-## technical skills
-**languages**: TypeScript, JavaScript, Java, Python, HTML, CSS, Sass, C++, PHP, Rust, SQL  
-**frameworks**: Next.js, Remix, Svelte, Tauri, Astro, Flask, Elysia, Express, Hono, Spring Boot, Tailwind CSS  
-**libraries**: React, AWS SDK, Drizzle ORM, Prisma, jQuery, Selenium, tRPC, Meilisearch, OW2 ASM  
-**databases**: MySQL, Postgres, SQLite, Redis, MongoDB, FaunaDB  
-**misc**: Gradle, Maven, Cloudflare, Vercel, Coolify
-&nbsp;
---->
+| Name                                                                                      | Description                                                            |
+|:------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
+| `💻`&nbsp;&nbsp;[com](https://github.com/aelew/com)                                       | Personal site built with Bun and Astro                                 |
+| `📚`&nbsp;&nbsp;[devterms](https://github.com/aelew/devterms)                             | Crowdsourced dictionary for developers                                 |
+| `🎨`&nbsp;&nbsp;[iconkit](https://iconkit.ai)                                             | Professional AI icon generator web app and API                         |
+| `🪙`&nbsp;&nbsp;[cryptotracker](https://github.com/aelew/cryptotracker)                   | Discord bot for tracking crypto transaction confirmations              |
+| `🔎`&nbsp;&nbsp;[lookup.tools](https://github.com/aelew/lookup.tools)                     | OSINT research tool for domains, emails, and IP addresses              |
+| `>>`&nbsp;&nbsp;[cobalt](https://github.com/aelew/raycast-cobalt)                         | Raycast extension for downloading social media content                 |
+| `🔗`&nbsp;&nbsp;[unshorten](https://github.com/aelew/unshorten)                           | Minimal Rust CLI for expanding shortened URLs                          |
+| `🔔`&nbsp;&nbsp;[tech-internship-alerts](https://github.com/aelew/tech-internship-alerts) | Discord bot monitoring new internship listings                         |
+| `📆`&nbsp;&nbsp;[ucmerced-ical](https://github.com/aelew/ucmerced-ical)                   | iCalendar file generator for UC Merced course schedules                |
+| `🎁`&nbsp;&nbsp;[gpt-wrapped](https://github.com/aelew/gpt-wrapped)                       | ChatGPT conversation analyzer powered by GPT-4                         |
+| `✨`&nbsp;&nbsp;[conai](https://github.com/aelew/conai)                                   | CLI for reformatting commit msgs using the Conventional Commits spec   |
+| `📷`&nbsp;&nbsp;[ocr-api](https://github.com/aelew/ocr-api)                               | Go API for extracting image text using GPT-4o-mini vision capabilities |
+| `🎬`&nbsp;&nbsp;[shorts-splicer](https://github.com/aelew/shorts-splicer)                 | Tool for auto-splitting shorts & reuploading them to YouTube/TikTok    |
 
 ## cool stats
 <kbd>
@@ -72,5 +64,3 @@ meh
     />
   </picture>
 </kbd>
-
-<!-- [![Holopin Board](https://holopin.me/aelew)](https://holopin.io/@aelew) -->
