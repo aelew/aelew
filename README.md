@@ -4,9 +4,9 @@
 [![X](https://img.shields.io/badge/@aelew.com-0285FF?logo=bluesky&logoColor=white)](https://bsky.app/profile/aelew.com)
 [![X](https://img.shields.io/badge/@aelew__-262626?logo=x&logoColor=white)](https://x.com/aelew_)
 
-hello there! i'm a 20 y/o student and aspiring software engineer studying computer science and engineering @ uc merced. i thrive on building tools, solving tricky challenges, and contributing to open source.
+Hello there! I'm a 20 y/o student and aspiring software engineer studying Computer Science and Engineering @ UC Merced. I thrive on building tools, solving tricky challenges, and contributing to open source.
 
-<!-- **i'm also currently looking for internships!** if you're a recruiter or know of open roles i'd be a good fit for, feel free to [reach out](mailto:me@aelew.com). -->
+<!-- **I'm also currently looking for internships!** If you're a recruiter or know of open roles I'd be a good fit for, feel free to [reach out](mailto:me@aelew.com). -->
 
 ## experience
 - incoming software engineer intern @ Apple
@@ -15,19 +15,19 @@ hello there! i'm a 20 y/o student and aspiring software engineer studying comput
 - software engineer intern @ Open Avenues
 
 ## projects
-`💻` [com](https://github.com/aelew/com): personal site built with Bun and Astro  
-`📚` [devterms](https://github.com/aelew/devterms): crowdsourced dictionary for developers  
-`🎨` [iconkit](https://iconkit.ai): professional AI icon generator web app and API  
+`💻` [com](https://github.com/aelew/com): Personal site built with Bun and Astro  
+`📚` [devterms](https://github.com/aelew/devterms): Crowdsourced dictionary for developers  
+`🎨` [iconkit](https://iconkit.ai): Professional AI icon generator web app and API  
 `🪙` [cryptotracker](https://github.com/aelew/cryptotracker): Discord bot for tracking crypto tx confirmations  
 `🔎` [lookup.tools](https://github.com/aelew/lookup.tools): OSINT tool for domains, emails, and IP addresses  
 `>>` [cobalt](https://github.com/aelew/raycast-cobalt): Raycast extension for downloading social media content  
-`🔗` [unshorten](https://github.com/aelew/unshorten): minimal Rust CLI for expanding shortened URLs  
-`🔔` [tech-internship-alerts](https://github.com/aelew/tech-internship-alerts): internship listing monitor bot for Discord  
+`🔗` [unshorten](https://github.com/aelew/unshorten): Minimal Rust CLI for expanding shortened URLs  
+`🔔` [tech-internship-alerts](https://github.com/aelew/tech-internship-alerts): Internship listing monitor bot for Discord  
 `📆` [ucmerced-ical](https://github.com/aelew/ucmerced-ical): iCalendar file generator for UC Merced courses  
 `🎁` [gpt-wrapped](https://github.com/aelew/gpt-wrapped): ChatGPT conversation analyzer powered by GPT-4  
 `✨` [conai](https://github.com/aelew/conai): CLI for reformatting commit msgs using the conv. commits spec  
 `📷` [ocr-api](https://github.com/aelew/ocr-api): API written in Go for extracting text from images using GPT-4o-mini  
-`🎬` [shorts-splicer](https://github.com/aelew/shorts-splicer): automatically splits up shorts & reuploads them to YouTube/TikTok  
+`🎬` [shorts-splicer](https://github.com/aelew/shorts-splicer): Automatically splits up shorts & reuploads them to YouTube/TikTok  
 
 <!---
 meh
