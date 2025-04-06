@@ -49,6 +49,9 @@ Hello there! I'm a 20 y/o student and aspiring software engineer studying Comput
       height="175"
     />
   </picture>
+</kbd>
+&nbsp;
+<kbd>
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aelew&layout=compact&langs_count=6&size_weight=0.27&count_weight=0.73&theme=github_dark&border_color=2F353D"
