@@ -22,6 +22,7 @@ Hello there! I'm a 20 y/o student and aspiring software engineer studying Comput
 | `💻`&nbsp;&nbsp;[com](https://github.com/aelew/com)                                       | Personal site built with Bun and Astro                                 |
 | `📚`&nbsp;&nbsp;[devterms](https://github.com/aelew/devterms)                             | Crowdsourced dictionary for developers                                 |
 | `🎨`&nbsp;&nbsp;[iconkit](https://iconkit.ai)                                             | Professional AI icon generator web app and API                         |
+| `⏰`&nbsp;&nbsp;[schedule it!](https://github.com/wzid/scheduleit)                        | Web app that helps you find the best time to meet with your team       |
 | `🪙`&nbsp;&nbsp;[cryptotracker](https://github.com/aelew/cryptotracker)                   | Discord bot for tracking crypto transaction confirmations              |
 | `🔎`&nbsp;&nbsp;[lookup.tools](https://github.com/aelew/lookup.tools)                     | OSINT research tool for domains, emails, and IP addresses              |
 | `>>`&nbsp;&nbsp;[cobalt](https://github.com/aelew/raycast-cobalt)                         | Raycast extension for downloading social media content                 |
