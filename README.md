@@ -4,17 +4,17 @@
 [![Bluesky](https://img.shields.io/badge/@aelew.com-0285FF?logo=bluesky&logoColor=white)](https://bsky.app/profile/aelew.com)
 [![X](https://img.shields.io/badge/@aelew__-262626?logo=x&logoColor=white)](https://x.com/aelew_)
 
-Hello there! I'm a 20 y/o student and aspiring software engineer studying Computer Science and Engineering @ UC Merced. I thrive on building tools, solving tricky challenges, and contributing to open source.
+Hello there! I'm a 20 y/o student and aspiring software engineer studying Computer Science @ UC San Diego. I thrive on building tools, solving tricky challenges, and contributing to open source.
 
 <!-- **I'm also currently looking for internships!** If you're a recruiter or know of open roles I'd be a good fit for, feel free to [reach out](mailto:me@aelew.com). -->
 
 ## experience
-| Company                                                               | Role                              | Start – End Date    |
-|:----------------------------------------------------------------------|:----------------------------------|:-------------------:|
-| [Apple](https://www.apple.com)                                        | Incoming Software Engineer Intern | May 2025 – Aug 2025 |
-| [UC Merced](https://www.ucmerced.edu)                                 | Student Developer                 | Aug 2024 – Present  |
-| [HackMerced](https://hackmerced.com)                                  | Event Organizer                   | Jul 2024 – Present  |
-| [Open Avenues](https://www.openavenuesfoundation.org/career-pathways) | Software Engineer Intern          | Feb 2024 – Apr 2024 |
+| Company                                                               | Role                     | Start – End Date    |
+|:----------------------------------------------------------------------|:-------------------------|:-------------------:|
+| [Apple](https://www.apple.com)                                        | Software Engineer Intern | May 2025 – Aug 2025 |
+| [UC Merced](https://www.ucmerced.edu)                                 | Student Developer        | Aug 2024 – Present  |
+| [HackMerced](https://hackmerced.com)                                  | Event Organizer          | Jul 2024 – Present  |
+| [Open Avenues](https://www.openavenuesfoundation.org/career-pathways) | Software Engineer Intern | Feb 2024 – Apr 2024 |
 
 ## projects
 | Name                                                                                      | Description                                                            |
