@@ -12,8 +12,8 @@ Hello there! I'm a 20 y/o student and aspiring software engineer studying Comput
 | Company                                                               | Role                     | Start – End Date    |
 |:----------------------------------------------------------------------|:-------------------------|:-------------------:|
 | [Apple](https://www.apple.com)                                        | Software Engineer Intern | May 2025 – Aug 2025 |
-| [UC Merced](https://www.ucmerced.edu)                                 | Student Developer        | Aug 2024 – Present  |
-| [HackMerced](https://hackmerced.com)                                  | Event Organizer          | Jul 2024 – Present  |
+| [UC Merced](https://www.ucmerced.edu)                                 | Student Developer        | Aug 2024 – May 2025 |
+| [HackMerced](https://hackmerced.com)                                  | Event Organizer          | Jul 2024 – May 2025 |
 | [Open Avenues](https://www.openavenuesfoundation.org/career-pathways) | Software Engineer Intern | Feb 2024 – Apr 2024 |
 
 ## projects
