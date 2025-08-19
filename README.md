@@ -1,8 +1,7 @@
 # andre 🚀
 [![LinkedIn](https://img.shields.io/badge/@aelew-0A66C2?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D)](https://www.linkedin.com/in/aelew)
 [![Discord](https://img.shields.io/badge/@aelew-5865F2?logo=discord&logoColor=white)](https://discord.com/users/204594797812383744)
-[![Bluesky](https://img.shields.io/badge/@aelew.com-0285FF?logo=bluesky&logoColor=white)](https://bsky.app/profile/aelew.com)
-[![X](https://img.shields.io/badge/@aelew__-262626?logo=x&logoColor=white)](https://x.com/aelew_)
+[![X](https://img.shields.io/badge/@andrebuilt-262626?logo=x&logoColor=white)](https://x.com/andrebuilt)
 
 Hello there! I'm a 20 y/o student and aspiring software engineer studying Computer Science @ UC San Diego. I thrive on building tools, solving tricky challenges, and contributing to open source.
 
@@ -19,7 +18,6 @@ Hello there! I'm a 20 y/o student and aspiring software engineer studying Comput
 ## projects
 | Name                                                                                      | Description                                                            |
 |:------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
-| `💻`&nbsp;&nbsp;[com](https://github.com/aelew/com)                                       | Personal site built with Bun and Astro                                 |
 | `📚`&nbsp;&nbsp;[devterms](https://github.com/aelew/devterms)                             | Crowdsourced dictionary for developers                                 |
 | `🎨`&nbsp;&nbsp;[iconkit](https://iconkit.ai)                                             | Professional AI icon generator web app and API                         |
 | `⏰`&nbsp;&nbsp;[schedule it!](https://github.com/wzid/scheduleit)                        | Web app that helps you find the best time to meet with your team       |
@@ -27,7 +25,7 @@ Hello there! I'm a 20 y/o student and aspiring software engineer studying Comput
 | `🔎`&nbsp;&nbsp;[lookup.tools](https://github.com/aelew/lookup.tools)                     | OSINT research tool for domains, emails, and IP addresses              |
 | `>>`&nbsp;&nbsp;[cobalt](https://github.com/aelew/raycast-cobalt)                         | Raycast extension for downloading social media content                 |
 | `🔗`&nbsp;&nbsp;[unshorten](https://github.com/aelew/unshorten)                           | Minimal Rust CLI for expanding shortened URLs                          |
-| `🔔`&nbsp;&nbsp;[tech-internship-alerts](https://github.com/aelew/tech-internship-alerts) | Discord bot monitoring new internship listings                         |
+| `🔔`&nbsp;&nbsp;[tech-internship-alerts](https://github.com/aelew/tech-internship-alerts) | Discord bot monitoring new internship and new grad listings            |
 | `📆`&nbsp;&nbsp;[ucmerced-ical](https://github.com/aelew/ucmerced-ical)                   | iCalendar file generator for UC Merced course schedules                |
 | `🎁`&nbsp;&nbsp;[gpt-wrapped](https://github.com/aelew/gpt-wrapped)                       | ChatGPT conversation analyzer powered by GPT-4                         |
 | `✨`&nbsp;&nbsp;[conai](https://github.com/aelew/conai)                                   | CLI for reformatting commit msgs using the Conventional Commits spec   |
