@@ -3,7 +3,7 @@
 [![Discord](https://img.shields.io/badge/@aelew-5865F2?logo=discord&logoColor=white)](https://discord.com/users/204594797812383744)
 [![X](https://img.shields.io/badge/@andrebuilt-262626?logo=x&logoColor=white)](https://x.com/andrebuilt)
 
-Hello there! I'm a 20 y/o student and aspiring software engineer studying Computer Science @ UC San Diego. I thrive on building tools, solving tricky challenges, and contributing to open source.
+Hi! I'm a 20 y/o student and aspiring software engineer studying Computer Science @ UC San Diego. I thrive on building tools, solving tricky challenges, and contributing to open source.
 
 <!-- **I'm also currently looking for internships!** If you're a recruiter or know of open roles I'd be a good fit for, feel free to [reach out](mailto:me@aelew.com). -->
 
