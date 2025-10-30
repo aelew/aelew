@@ -3,13 +3,14 @@
 [![Discord](https://img.shields.io/badge/@aelew-5865F2?logo=discord&logoColor=white)](https://discord.com/users/204594797812383744)
 [![X](https://img.shields.io/badge/@andrectl-262626?logo=x&logoColor=white)](https://x.com/andrectl)
 
-Hi! I'm a 20 y/o student and aspiring software engineer studying Computer Science @ UC San Diego. I thrive on building tools, solving tricky challenges, and contributing to open source.
+I'm a 20 y/o student and aspiring software engineer studying Computer Science @ UC San Diego. I thrive on building tools, solving tricky challenges, and tinkering with new technologies!
 
 <!-- **I'm also currently looking for internships!** If you're a recruiter or know of open roles I'd be a good fit for, feel free to [reach out](mailto:me@aelew.com). -->
 
 ## experience
 | Company                                                               | Role                     | Start – End Date    |
 |:----------------------------------------------------------------------|:-------------------------|:-------------------:|
+| [Meta](https://www.meta.com) 🔜                                       | Software Engineer Intern | Jun 2026 – Sep 2026 |
 | [Apple](https://www.apple.com)                                        | Software Engineer Intern | May 2025 – Aug 2025 |
 | [UC Merced](https://www.ucmerced.edu)                                 | Student Developer        | Aug 2024 – May 2025 |
 | [HackMerced](https://hackmerced.com)                                  | Event Organizer          | Jul 2024 – May 2025 |
