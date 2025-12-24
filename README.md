@@ -3,27 +3,18 @@
 [![Discord](https://img.shields.io/badge/@aelew-5865F2?logo=discord&logoColor=white)](https://discord.com/users/204594797812383744)
 [![X](https://img.shields.io/badge/@andrectl-262626?logo=x&logoColor=white)](https://x.com/andrectl)
 
-I'm a 20 y/o student and aspiring software engineer studying Computer Science @ UC San Diego. I thrive on building tools, solving tricky challenges, and contributing to purpose-driven projects.
+Hello! I'm a student and aspiring software engineer studying Computer Science @ UC San Diego. I thrive on building tools, solving tricky challenges, and contributing to purpose-driven projects.
 
 <!-- **I'm also currently looking for internships!** If you're a recruiter or know of open roles I'd be a good fit for, feel free to [reach out](mailto:me@aelew.com). -->
-
-## experience
-| Company                                                               | Role                     | Start – End Date    |
-|:----------------------------------------------------------------------|:-------------------------|:-------------------:|
-| [Meta](https://www.meta.com)                                          | Software Engineer Intern | Jun 2026 – Sep 2026 |
-| [Apple](https://www.apple.com)                                        | Software Engineer Intern | May 2025 – Aug 2025 |
-| [UC Merced](https://www.ucmerced.edu)                                 | Student Developer        | Aug 2024 – May 2025 |
-| [HackMerced](https://hackmerced.com)                                  | Event Organizer          | Jul 2024 – May 2025 |
-| [Open Avenues](https://www.openavenuesfoundation.org/career-pathways) | Software Engineer Intern | Feb 2024 – Apr 2024 |
 
 ## projects
 | Name                                                                                      | Description                                                            |
 |:------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
 | `📚`&nbsp;&nbsp;[devterms](https://github.com/aelew/devterms)                             | Crowdsourced dictionary for developers                                 |
 | `🎨`&nbsp;&nbsp;[iconkit](https://iconkit.ai)                                             | Professional AI icon generator web app and API                         |
-| `⏰`&nbsp;&nbsp;[schedule it!](https://github.com/wzid/scheduleit)                        | Web app that helps you find the best time to meet with your team       |
+| `⏰`&nbsp;&nbsp;[schedule it!](https://github.com/wzid/scheduleit)                        | Web app for scheduling group meetups efficiently                       |
 | `🪙`&nbsp;&nbsp;[cryptotracker](https://github.com/aelew/cryptotracker)                   | Discord bot for tracking crypto transaction confirmations              |
-| `🔎`&nbsp;&nbsp;[lookup.tools](https://github.com/aelew/lookup.tools)                     | OSINT research tool for domains, emails, and IP addresses              |
+| `🔎`&nbsp;&nbsp;[lookup.tools](https://github.com/aelew/lookup.tools)                     | Self-hostable OSINT tool for domains, IPs, and email addresses         |
 | `>>`&nbsp;&nbsp;[cobalt](https://github.com/aelew/raycast-cobalt)                         | Raycast extension for downloading social media content                 |
 | `🔗`&nbsp;&nbsp;[unshorten](https://github.com/aelew/unshorten)                           | Minimal Rust CLI for expanding shortened URLs                          |
 | `🔔`&nbsp;&nbsp;[tech-internship-alerts](https://github.com/aelew/tech-internship-alerts) | Discord bot monitoring new internship and new grad listings            |
@@ -31,22 +22,22 @@ I'm a 20 y/o student and aspiring software engineer studying Computer Science @ 
 | `🎁`&nbsp;&nbsp;[gpt-wrapped](https://github.com/aelew/gpt-wrapped)                       | ChatGPT conversation analyzer powered by GPT-4                         |
 | `✨`&nbsp;&nbsp;[conai](https://github.com/aelew/conai)                                   | CLI for reformatting commit msgs using the Conventional Commits spec   |
 | `📷`&nbsp;&nbsp;[ocr-api](https://github.com/aelew/ocr-api)                               | Go API for extracting image text using GPT-4o-mini vision capabilities |
-| `🎬`&nbsp;&nbsp;[shorts-splicer](https://github.com/aelew/shorts-splicer)                 | Tool for auto-splitting shorts & reuploading them to YouTube/TikTok    |
-| `📝`&nbsp;&nbsp;[discord-bot-template](https://github.com/aelew/discord-bot-template)     | Lightweight, type-safe Discord.js bot template built with TS + Bun     |
+| `🎬`&nbsp;&nbsp;[shorts-splicer](https://github.com/aelew/shorts-splicer)                 | Tool for splitting/merging shorts to upload on YouTube and TikTok      |
+| `📝`&nbsp;&nbsp;[discord-bot-template](https://github.com/aelew/discord-bot-template)     | Lightweight, type-safe Discord.js bot template built with TS & Bun     |
 
 ## cool stats
 <kbd>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=aelew&custom_title=GitHub%20Statistics&hide_rank=true&show_icons=true&line_height=22&text_bold=false&hide=issues&theme=github_dark&border_color=2F353D"
+      srcset="https://grs.aelew.com/api?username=aelew&custom_title=GitHub%20Statistics&hide_rank=true&show_icons=true&line_height=22&text_bold=false&hide=issues&theme=github_dark&border_color=2F353D"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=aelew&custom_title=GitHub%20Statistics&hide_rank=true&show_icons=true&line_height=22&text_bold=false&hide=issues"
+      srcset="https://grs.aelew.com/api?username=aelew&custom_title=GitHub%20Statistics&hide_rank=true&show_icons=true&line_height=22&text_bold=false&hide=issues"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api?username=aelew&custom_title=GitHub%20Statistics&hide_rank=true&show_icons=true&line_height=22&text_bold=false&hide=issues"
+      src="https://grs.aelew.com/api?username=aelew&custom_title=GitHub%20Statistics&hide_rank=true&show_icons=true&line_height=22&text_bold=false&hide=issues"
       height="175"
     />
   </picture>
@@ -55,15 +46,15 @@ I'm a 20 y/o student and aspiring software engineer studying Computer Science @ 
 <kbd>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aelew&layout=compact&langs_count=6&size_weight=0.27&count_weight=0.73&theme=github_dark&border_color=2F353D"
+      srcset="https://grs.aelew.com/api/top-langs/?username=aelew&layout=compact&langs_count=6&size_weight=0.27&count_weight=0.73&theme=github_dark&border_color=2F353D"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aelew&layout=compact&langs_count=6&size_weight=0.27&count_weight=0.73"
+      srcset="https://grs.aelew.com/api/top-langs/?username=aelew&layout=compact&langs_count=6&size_weight=0.27&count_weight=0.73"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aelew&layout=compact&langs_count=6&size_weight=0.27&count_weight=0.73"
+      src="https://grs.aelew.com/api/top-langs/?username=aelew&layout=compact&langs_count=6&size_weight=0.27&count_weight=0.73"
       height="175"
     />
   </picture>
