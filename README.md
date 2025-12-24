@@ -46,15 +46,15 @@ Hello! I'm a student and aspiring software engineer studying Computer Science @ 
 <kbd>
   <picture>
     <source
-      srcset="https://grs.aelew.com/api/top-langs/?username=aelew&layout=compact&langs_count=6&size_weight=0.27&count_weight=0.73&theme=github_dark&border_color=2F353D"
+      srcset="https://grs.aelew.com/api/top-langs/?username=aelew&layout=compact&langs_count=6&size_weight=0.25&theme=github_dark&border_color=2F353D"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://grs.aelew.com/api/top-langs/?username=aelew&layout=compact&langs_count=6&size_weight=0.27&count_weight=0.73"
+      srcset="https://grs.aelew.com/api/top-langs/?username=aelew&layout=compact&langs_count=6&size_weight=0.25"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
-      src="https://grs.aelew.com/api/top-langs/?username=aelew&layout=compact&langs_count=6&size_weight=0.27&count_weight=0.73"
+      src="https://grs.aelew.com/api/top-langs/?username=aelew&layout=compact&langs_count=6&size_weight=0.25"
       height="175"
     />
   </picture>
