@@ -34,7 +34,7 @@ student, tinkerer, software engineer
     />
     <img
       src="https://grs.aelew.com/api?username=aelew&custom_title=GitHub%20Statistics&hide_rank=true&show_icons=true&line_height=22&text_bold=false&hide=issues"
-      height="175"
+      height="160"
     />
   </picture>
 </kbd>
@@ -51,7 +51,7 @@ student, tinkerer, software engineer
     />
     <img
       src="https://grs.aelew.com/api/top-langs/?username=aelew&layout=compact&langs_count=6&size_weight=0.25"
-      height="175"
+      height="160"
     />
   </picture>
 </kbd>
