@@ -1,7 +1,7 @@
 # andre&nbsp;&nbsp;🚀
 
 student, tinkerer, software engineer  
-[website](https://aelew.com) &bull; [discord](https://discord.com/users/204594797812383744) &bull; [linkedin](https://www.linkedin.com/in/aelew) &bull; [email](mailto:me@aelew.com)
+[website](https://aelew.com) &bull; [email](mailto:me@aelew.com) &bull; [discord](https://discord.com/users/204594797812383744) &bull; [linkedin](https://www.linkedin.com/in/aelew)
 
 ## projects
 | Name                                                                                      | Description                                                            |
